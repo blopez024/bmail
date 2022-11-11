@@ -2,10 +2,7 @@
   "name": "bmail",
   "version": "0.1.0",
   "description": "Gmail but with a B instead :)",
-  "homepage": "https://github.com/blopez024/bMail#README.md",
-  "bugs": {
-    "url": "https://github.com/blopez024/bMail/issues"
-  },
+  
   "license": "Apache-2.0",
   "author": {
     "name": "Bryan Lopez"
